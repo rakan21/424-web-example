@@ -7,6 +7,9 @@ This project enables us to learn source code control using Git.
 ##Purpose
 To have code we can use for hands on exercises.
 
+##Nore More Conflicts
+We can now merge back into Master without any trouble.
+
 ##conflict on Master
 <<<<<<< HEAD
 This section will be different on the conflictbranch.
